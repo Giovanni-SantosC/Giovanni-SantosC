@@ -23,7 +23,7 @@
   <a href="https://discord.gg/SEU_LINK" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.twitch.tv/SEU_USUARIO" target="_blank">
+  <a href="www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://dev.to/SEU_USUARIO" target="_blank">
